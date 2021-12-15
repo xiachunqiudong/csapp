@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mmu.h": "c",
+        "stdint.h": "c",
+        "dram.h": "c"
+    }
+}
